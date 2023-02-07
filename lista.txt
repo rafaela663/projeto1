@@ -1,3 +1,5 @@
 arroz 
 feijão 
 carne
+frango
+coca cola
